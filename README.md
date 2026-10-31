@@ -66,7 +66,7 @@ Below is a comparison of premier commercial sales cadence, multi-channel outreac
 
 Explore the leading open-source sales outreach projects, personal sequencers, and deliverability stacks—sorted in descending order by GitHub stargazers count.
 
-| Project | Stars | Primary Language / Stack | Architecture & Core Capabilities |
+| Project | GitHub_Stars | Primary Language / Stack | Architecture & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Mautic](https://github.com/mautic/mautic)** | [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | PHP / Symfony | Full-scale marketing automation & email sequencing engine; visual campaign builder, dynamic lead scoring, contact lifecycle management, and web tracking. |
 | **[Harvey](https://github.com/ethanplusai/harvey)** | [![Stars](https://img.shields.io/github/stars/ethanplusai/harvey?style=social&color=white)](https://github.com/ethanplusai/harvey/stargazers) | TypeScript / Python | Autonomous AI sales agent powered by Claude Code or Codex. Automates prospect discovery, cold email drafting, outreach campaigns, reply handling, and meeting bookings. |
@@ -98,7 +98,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-tool`)
-3. 📝 **Add or edit entries in `README.md`** (Maintain table format, specific pricing/limits, and exact GitHub star badges)
+3. 📝 **Add or edit entries in `README.md`** (Maintain table format, specific pricing/limits, and exact GitHub Stars_Badges)
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add new outreach platform'`)
 5. 📤 **Push to the branch** (`git push origin feature/add-new-tool`)
 6. 🎯 **Open a Pull Request** with a brief rationale
