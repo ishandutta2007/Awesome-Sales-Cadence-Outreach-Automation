@@ -37,6 +37,7 @@ The global **Sales Engagement & Outreach Automation** software market size is es
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [⚙️ Open-Source Architectural Patterns](#️-open-source-architectural-patterns)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Appreciation](#-support--appreciation)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 - [⭐ Star History](#-star-history)
 
@@ -101,6 +102,20 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add new outreach platform'`)
 5. 📤 **Push to the branch** (`git push origin feature/add-new-tool`)
 6. 🎯 **Open a Pull Request** with a brief rationale
+
+---
+
+## 💖 Support & Appreciation
+
+Thank you so much for exploring and supporting **Awesome Sales Cadence & Outreach Automation**! Building and keeping this ecosystem directory high-quality and actively maintained requires continuous research and effort.
+
+If you find this repository helpful for your outbound strategy or stack architecture, here are a few wonderful ways you can show support:
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork it** and contribute new tools, updates, or benchmark findings.
+- 📢 **Share it** with fellow SDR leaders, growth marketers, and engineering teams.
+- ☕ **Buy me a coffee**: Support ongoing open-source curation and development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
