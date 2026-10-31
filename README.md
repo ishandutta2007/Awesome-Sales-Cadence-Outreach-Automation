@@ -98,7 +98,7 @@ Contributions are warmly welcomed! Help keep this ecosystem comprehensive, accur
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-tool`)
-3. 📝 **Add or edit entries in `README.md`** (Maintain table format, specific pricing/limits, and exact GitHub Stars_Badges)
+3. 📝 **Add or edit entries in `README.md`** (Maintain table format, specific pricing/limits, and exact GitHub_Stars_Badges)
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add new outreach platform'`)
 5. 📤 **Push to the branch** (`git push origin feature/add-new-tool`)
 6. 🎯 **Open a Pull Request** with a brief rationale
